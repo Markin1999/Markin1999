@@ -37,7 +37,4 @@
   </a>
 </p>
 
-<h3 align="left">Languages graph:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markin1999&layout=compact&langs_count=8" alt="Marco's Languages" />
 </p>
