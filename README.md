@@ -32,11 +32,8 @@
 
 <h3 align="left">Keep in touch:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marco-filannino" target="blank">
+  <a href="https://www.linkedin.com/in/marco-filannino-564b3633a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/marco.filannino99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
 
