@@ -3,7 +3,7 @@
 
 - 📚 I’m currently studying **programming languages** at [Develhope](https://www.develhope.co/).
 
-- 🛠️ I specialize in **HTML**, **CSS**, **JavaScript**, and **React**.
+- 🛠️ I specialize in **HTML**, **CSS**, **JavaScript**, **React**, **Typescript**, **SQL**, **Node.js**
 
 - 🚀 I’m continuously learning to improve and expand my skill set.
 
